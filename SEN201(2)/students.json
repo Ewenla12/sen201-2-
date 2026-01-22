@@ -1,0 +1,502 @@
+[
+    {
+        "student_id": "25/1000",
+        "name": "Ewenla Issachar",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1001",
+        "name": "Adebayo John",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1002",
+        "name": "Okafor Blessing",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1003",
+        "name": "Balogun Tunde",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1004",
+        "name": "Adeyemi Funke",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1005",
+        "name": "Olawale Sola",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1006",
+        "name": "Chukwu Emeka",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1007",
+        "name": "Ibrahim Musa",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1008",
+        "name": "Sadiq Ahmed",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1009",
+        "name": "Ojo Deborah",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1010",
+        "name": "Akinwale Samuel",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1011",
+        "name": "Yakubu Daniel",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1012",
+        "name": "Lawal Zainab",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1013",
+        "name": "Onyekachi Grace",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1014",
+        "name": "Bello Rahmat",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1015",
+        "name": "Olatunji David",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1016",
+        "name": "Uche Michael",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1017",
+        "name": "Salami Ridwan",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1018",
+        "name": "Popoola Esther",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1019",
+        "name": "Danladi Joseph",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1020",
+        "name": "Ewenla Issachar",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1021",
+        "name": "Adebayo John",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1022",
+        "name": "Okafor Blessing",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1023",
+        "name": "Balogun Tunde",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1024",
+        "name": "Adeyemi Funke",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1025",
+        "name": "Olawale Sola",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1026",
+        "name": "Chukwu Emeka",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1027",
+        "name": "Ibrahim Musa",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1028",
+        "name": "Sadiq Ahmed",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1029",
+        "name": "Ojo Deborah",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1030",
+        "name": "Akinwale Samuel",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1031",
+        "name": "Yakubu Daniel",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1032",
+        "name": "Lawal Zainab",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1033",
+        "name": "Onyekachi Grace",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1034",
+        "name": "Bello Rahmat",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1035",
+        "name": "Olatunji David",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1036",
+        "name": "Uche Michael",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1037",
+        "name": "Salami Ridwan",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1038",
+        "name": "Popoola Esther",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1039",
+        "name": "Danladi Joseph",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1040",
+        "name": "Ewenla Issachar",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1041",
+        "name": "Adebayo John",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1042",
+        "name": "Okafor Blessing",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1043",
+        "name": "Balogun Tunde",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1044",
+        "name": "Adeyemi Funke",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1045",
+        "name": "Olawale Sola",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1046",
+        "name": "Chukwu Emeka",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1047",
+        "name": "Ibrahim Musa",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1048",
+        "name": "Sadiq Ahmed",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1049",
+        "name": "Ojo Deborah",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1050",
+        "name": "Akinwale Samuel",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1051",
+        "name": "Yakubu Daniel",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1052",
+        "name": "Lawal Zainab",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1053",
+        "name": "Onyekachi Grace",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1054",
+        "name": "Bello Rahmat",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1055",
+        "name": "Olatunji David",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1056",
+        "name": "Uche Michael",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1057",
+        "name": "Salami Ridwan",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1058",
+        "name": "Popoola Esther",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1059",
+        "name": "Danladi Joseph",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1060",
+        "name": "Ewenla Issachar",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1061",
+        "name": "Adebayo John",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1062",
+        "name": "Okafor Blessing",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1063",
+        "name": "Balogun Tunde",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1064",
+        "name": "Adeyemi Funke",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1065",
+        "name": "Olawale Sola",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1066",
+        "name": "Chukwu Emeka",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1067",
+        "name": "Ibrahim Musa",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1068",
+        "name": "Sadiq Ahmed",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1069",
+        "name": "Ojo Deborah",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1070",
+        "name": "Akinwale Samuel",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1071",
+        "name": "Yakubu Daniel",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1072",
+        "name": "Lawal Zainab",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1073",
+        "name": "Onyekachi Grace",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1074",
+        "name": "Bello Rahmat",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1075",
+        "name": "Olatunji David",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1076",
+        "name": "Uche Michael",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1077",
+        "name": "Salami Ridwan",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1078",
+        "name": "Popoola Esther",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1079",
+        "name": "Danladi Joseph",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1080",
+        "name": "Ewenla Issachar",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1081",
+        "name": "Adebayo John",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1082",
+        "name": "Okafor Blessing",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1083",
+        "name": "Balogun Tunde",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1084",
+        "name": "Adeyemi Funke",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1085",
+        "name": "Olawale Sola",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1086",
+        "name": "Chukwu Emeka",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1087",
+        "name": "Ibrahim Musa",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1088",
+        "name": "Sadiq Ahmed",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1089",
+        "name": "Ojo Deborah",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1090",
+        "name": "Akinwale Samuel",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1091",
+        "name": "Yakubu Daniel",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1092",
+        "name": "Lawal Zainab",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1093",
+        "name": "Onyekachi Grace",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1094",
+        "name": "Bello Rahmat",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1095",
+        "name": "Olatunji David",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1096",
+        "name": "Uche Michael",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1097",
+        "name": "Salami Ridwan",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1098",
+        "name": "Popoola Esther",
+        "department": "Computer Science"
+    },
+    {
+        "student_id": "25/1099",
+        "name": "Danladi Joseph",
+        "department": "Computer Science"
+    }
+]
